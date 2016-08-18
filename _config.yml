@@ -1,14 +1,16 @@
 name: Portugal
-layout_spectrum: 0.5175281333152802
-typography_spectrum: 0.6467195728060953
+layout_spectrum: 0.6513664899393916
+typography_spectrum: 0.9835587739944458
 color:
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-  brandStrength: 0.9018202398656123
-  lightness: 0.7836040332545541
-  saturation: 0.14843325775697902
-  rhythmicContrast: 0.39531531646836104
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.6041848545428365
+  lightness: 0.4873028537258506
+  saturation: 0.9946230412460864
+  rhythmicContrast: 0.018123818561434746
+coverPrefs:
+  filter: false
